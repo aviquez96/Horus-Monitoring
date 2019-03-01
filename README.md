@@ -8,6 +8,26 @@ UBC Sustaingineering is working in partnership with ENICALSA (Renewable solution
 
 Horus an electron based desktop application (MacOS, Windows, Linux) aims to facilitate the monitoring and data collection for the 30 currently installed solar panels in Nicargua.
 
+## Presentational Images
+The following section will present some images of the application running
+
+##### Landing Page
+![](Images/Horus1.png)
+##### Sign In Page
+![](Images/Horus2.png)
+##### Sign Up Page
+![](Images/Horus3.png)
+##### Forgot Password Page
+![](Images/Horus4.png)
+##### Home Page
+![](Images/Horus5.png)
+##### Sample Sensor Dashboard 
+![](Images/Horus6.png)
+##### Sample Sensor Graphs
+![](Images/Horus7.png)
+##### Sample Summary Table
+![](Images/Horus8.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
